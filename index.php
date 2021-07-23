@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Index File</h1>
+</body>
+</html>
